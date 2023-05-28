@@ -1,0 +1,27 @@
+# Visual Studio Code
+.settings/launch.json
+.vs
+.vscode
+.history
+
+/dist
+
+*.swp
+.DS_Store
+
+# IntelliJ based IDEs
+.idea
+*.iml
+
+# npm
+node_modules
+package-lock.json
+npm-debug.log
+
+# yarn
+yarn.lock
+
+# pnpm
+shrinkwrap.yaml
+pnpm-lock.yaml
+pnpm-debug.log
