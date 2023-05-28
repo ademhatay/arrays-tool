@@ -36,7 +36,9 @@ Shuffles the elements of the given array randomly and returns a new shuffled arr
 Returns the shuffled array.
 
 ## Contributing
+
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
 
 ## License
+
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)

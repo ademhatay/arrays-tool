@@ -1,31 +1,31 @@
 {
-	"name": "arrays-tool",
-	"version": "0.0.2",
-	"description": "A simple npm package that provides useful functions for manipulating arrays.",
-	"main": "dist/index.js",
-	"types": "dist/index.d.ts",
-	"scripts": {
-		"build": "tsc --outDir dist",
-		"format": "prettier --write ."
-	},
-	"keywords": [
-		"arrays",
-		"array",
-		"tool",
-		"manipulate",
-		"functions"
-	],
-	"author": "Adem Hatay",
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ademhatay/arrays-tool"
-	},
-	"devDependencies": {
-		"@types/jest": "^29.5.1",
-		"jest": "^29.5.0",
-		"prettier": "^2.8.8",
-		"ts-jest": "^29.1.0",
-		"typescript": "^5.0.4"
-	}
+  "name": "arrays-tool",
+  "version": "0.0.2",
+  "description": "A simple npm package that provides useful functions for manipulating arrays.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --outDir dist",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "arrays",
+    "array",
+    "tool",
+    "manipulate",
+    "functions"
+  ],
+  "author": "Adem Hatay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ademhatay/arrays-tool"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "prettier": "^2.8.8",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  }
 }

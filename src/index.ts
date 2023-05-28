@@ -1,7 +1,7 @@
-import { shuffle } from "./functions/shuffleArray";
+import { shuffle } from './functions/shuffleArray';
 
 export function useRandomArrayPack() {
-	return {
-		shuffle,
-	};
+  return {
+    shuffle,
+  };
 }
