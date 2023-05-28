@@ -1,2 +1,42 @@
-# arrays-tool
+# arrays-tools
+
 A simple npm package that provides useful functions for manipulating arrays.
+
+## Installation
+
+Use npm to install `arrays-tools`:
+
+```shell
+npm install arrays-tools
+```
+
+## Usage
+
+```js
+const { useRandomArrayPack } = require('arrays-tools');
+
+const tools = useRandomArrayPack();
+
+const array = [4, 9, 132, 78, 42];
+
+const shuffledArray = tools.shuffle(array);
+
+console.log(shuffledArray);
+// Output: [132, 42, 9, 4, 78]
+```
+
+## API
+
+### `shuffle(array)`
+
+Shuffles the elements of the given array randomly and returns a new shuffled array.
+
+- `array`: The array to be shuffled.
+
+Returns the shuffled array.
+
+## Contributing
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
