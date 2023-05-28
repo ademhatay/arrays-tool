@@ -1,19 +1,19 @@
-# arrays-tools
+# arrays-tool
 
 A simple npm package that provides useful functions for manipulating arrays.
 
 ## Installation
 
-Use npm to install `arrays-tools`:
+Use npm to install `arrays-tool`:
 
 ```shell
-npm install arrays-tools
+npm install arrays-tool
 ```
 
 ## Usage
 
 ```js
-const { useRandomArrayPack } = require('arrays-tools');
+const { useRandomArrayPack } = require('arrays-tool');
 
 const tools = useRandomArrayPack();
 
