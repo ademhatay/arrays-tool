@@ -1,4 +1,4 @@
-import { shuffle } from '../functions/shuffleArray';
+import { shuffle } from '../functions/shuffle';
 
 describe('shuffle', () => {
   it('should shuffle the array', () => {
