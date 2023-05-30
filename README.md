@@ -35,6 +35,14 @@ Shuffles the elements of the given array randomly and returns a new shuffled arr
 
 Returns the shuffled array.
 
+### `reverse(array)`
+Reverses the elements of the given array and returns a new reversed array.
+
+- `array`: The array to be reversed.
+  
+Returns the reversed array.
+
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
